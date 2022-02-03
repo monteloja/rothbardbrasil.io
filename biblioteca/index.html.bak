@@ -14,14 +14,14 @@
 	 
 	  
 	  <link rel="stylesheet" href="font-awesome.min.css">
-	  <link href="css2.css" rel="stylesheet">
+	  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
 	  <link rel="stylesheet" media="screen" href="application-ac97d17978ad84a65f86fe96c45618cd75a27b553d0125818ff5fb0ecb0d684b.css" />
 	  <link rel="stylesheet" media="screen, print" href="generated-0043dfe4e8cf7153912b47a93fead0a0ac0731f0a289f65eb8dec7dff1c21731.css" />
-	  <link rel="stylesheet" href="2font-awesome.min.css">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel='stylesheet' id='wp-dark-mode-newspaper-css' href='newspaper271b.css' type='text/css' media='all' />
       <link rel='stylesheet' id='td-plugin-multi-purpose-css' href='style3cfc.css' type='text/css' media='all' />
       <link rel='stylesheet' id='font_awesome-css' href='font-awesome3cfc.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='google-fonts-style-css' href='css.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&amp;ver=9.2' type='text/css' media='all' />
       <link rel='stylesheet' id='fusion-dynamic-css-css' href='bafccd28c0f708e1e622a1d21a461131.min5b75.css' type='text/css' media='all' />
       <link rel='stylesheet' id='td-theme-css' href='stylea919.css' type='text/css' media='all' />
       <link rel='stylesheet' id='td-theme-demo-style-css' href='demo_stylea919.css' type='text/css' media='all' />
